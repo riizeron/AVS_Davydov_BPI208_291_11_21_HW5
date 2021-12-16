@@ -1,0 +1,2 @@
+C:\WINDOWS\system32\wsl.exe --distribution Ubuntu --exec /bin/sh -c "export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel/cmake-build-debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' /mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel"
+/bin/sh: 1: cd: can't cd to /mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel/cmake-build-debug
