@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel/Client.h
+Random.h
+/mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel/Random.h
+
+/mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel/Hotel.h
+
+/mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel/Info.h
+Client.h
+/mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel/Client.h
+Hotel.h
+/mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel/Hotel.h
+
+/mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel/Random.h
+stdlib.h
+-
+time.h
+-
+
+/mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel/main.cpp
+cstdlib
+-
+cstdio
+-
+ctime
+-
+cstring
+-
+pthread.h
+/mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel/pthread.h
+unistd.h
+-
+Info.h
+/mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel/Info.h
+Hotel.h
+/mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel/Hotel.h
+Client.h
+/mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel/Client.h
+

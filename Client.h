@@ -12,20 +12,22 @@ class Client {
 private:
     // Client id.
     int id_;
-    Random flight_time_ = Random(500, 1000);
+    Random book_time_ = Random(2000, 5000);
 
 public:
     // Constructor.
     explicit Client(int id);
 
-    // Выводит сообщение о действии пчелы.
-    void getClientMove(FILE *file_out) const;
+    // Print message when client booked a room.
+    void bookLog(FILE *output_path) const;
 
+    // Print message when hotel is full and client has to sleep outside.
+    void waitLog(FILE *output_path) const;
     // Getting the time for which the client falls asleep.
-    int sleepTime(FILE *file_out) const;
+    int getBookTime(FILE *output_path) const;
 
     // Client leave the hotel.
-    void leaveHotel(FILE *file_out) const;
+    void leaveHotel(FILE *output_path) const;
 };
 
 

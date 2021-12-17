@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/Hotel.cpp.o CMakeFiles/main.dir/Client.cpp.o  -o main 

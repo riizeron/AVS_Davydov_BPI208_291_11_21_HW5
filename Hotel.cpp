@@ -2,12 +2,12 @@
 // Created by Вячеслав on 16.12.2021.
 //
 
-#include "stdio.h"
+#include <cstdio>
 #include "Hotel.h"
 
 // Constructor.
-int Hotel::Hotel(int capacity = 30) {
-    capacity_ = capacity;
+Hotel::Hotel() {
+    capacity_ = 30;
     occupied_count_ = 0;
 }
 

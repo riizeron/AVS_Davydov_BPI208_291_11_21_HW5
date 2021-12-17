@@ -1,0 +1,3 @@
+/mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel/cmake-build-debug/CMakeFiles/main.dir

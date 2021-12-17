@@ -1,0 +1,20 @@
+Client 1: take room in the hotel.
+Hotel: full for 1/30 rooms.
+Client 1: book room for 930 seconds.
+
+Client 2: take room in the hotel.
+Hotel: full for 2/30 rooms.
+Client 2: book room for 969 seconds.
+
+Client 3: take room in the hotel.
+Hotel: full for 3/30 rooms.
+Client 3: book room for 978 seconds.
+
+Client 2: leaves the hotel.
+Client 1: leaves the hotel.
+Client 4: take room in the hotel.
+Hotel: full for 2/30 rooms.
+Client 4: book room for 904 seconds.
+
+Client 3: leaves the hotel.
+Client 4: leaves the hotel.

@@ -15,10 +15,10 @@ private:
 
 public:
     // Constructor.
-    explicit Hotel(int capacity = 30);
+    explicit Hotel();
 
     // Check if all hotel rooms are occupied.
-    bool isFull() const;
+    [[nodiscard]] bool isFull() const;
 
     // Adding and removing a client.
     void addClient();

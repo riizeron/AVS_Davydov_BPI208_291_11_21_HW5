@@ -17,7 +17,7 @@ struct Info {
     Hotel *hotel;
 
     // Output file.
-    FILE *file_out;
+    FILE *output_path;
 };
 
 #endif //CSA_MULTITHREADING_HOTEL_INFO_H

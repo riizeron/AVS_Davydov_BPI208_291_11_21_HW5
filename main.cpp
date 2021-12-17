@@ -2,17 +2,17 @@
 #include <cstdio>
 #include <ctime>
 #include <cstring>
-#include <pthread.h>
+#include "pthread.h"
 #include <unistd.h>
+#include <iostream>
 #include "Info.h"
-#include "Hotel.h"
-#include "Client.h"
 
 // Max amount of clients.
-const int MAX_CLIENTS_NUMBER = 100;
+const int MAX_CLIENTS_NUMBER = 1000;
 
-// Мьютекс для синхронизации заполнения пчёлами горшка.
+// Mutex for synchronization.
 pthread_mutex_t mutex;
+pthread_cond_t mut;
 
 
 void errorMessage1() {
@@ -56,7 +56,7 @@ int setData(int argc, char *argv[], int &clients) {
         errorMessage1();
         return 1;
     } else {
-        if(!strcmp(argv[1], "-f")){
+        if (!strcmp(argv[1], "-f")) {
             FILE *file_in = fopen(argv[2], "r");
             if (file_in == nullptr) {
                 printf("Cannot find file with name %s\n", argv[2]);
@@ -67,8 +67,9 @@ int setData(int argc, char *argv[], int &clients) {
                 return 3;
             }
             fclose(file_in);
-        } else if(!strcmp(argv[1], "-n")) {
+        } else if (!strcmp(argv[1], "-n")) {
             clients = atoi(argv[2]);
+
         } else {
             errorMessage2();
             return 2;
@@ -78,7 +79,6 @@ int setData(int argc, char *argv[], int &clients) {
             return 4;
         }
     }
-
     return 0;
 }
 
@@ -90,37 +90,36 @@ void *fillHotel(void *param) {
     // At one time, only one client can check into the hotel.
     pthread_mutex_lock(&mutex);
     //Clients check into the hotel until it is full.
-    if (!info->hotel->isFull()) {
-        info->client->getClientMove(info->file_out);
-        info->hotel->addClient();
-        info->hotel->print(info->file_out);
-
-        int sleep_milliseconds = info->client->sleepTime(info->file_out);
-        pthread_mutex_unlock(&mutex);
-
-        usleep(sleep_milliseconds);
-        info->hotel->removeClient();
-        info->client->leaveHotel(info->file_out);
-        pthread_cond_broadcast(&mutex);
-        return nullptr;
-    } else {
-        pthread_cond_wait(&mutex);
-        fillHotel(param);
+    while (info->hotel->isFull()) {
+        info->client->waitLog(info->output_path);
+        pthread_cond_wait(&mut, &mutex);
     }
+    info->client->bookLog(info->output_path);
+    info->hotel->addClient();
+    info->hotel->print(info->output_path);
+    int sleep_milliseconds = info->client->getBookTime(info->output_path);
+    pthread_mutex_unlock(&mutex);
+    usleep(sleep_milliseconds);
+    pthread_mutex_lock(&mutex);
+    info->hotel->removeClient();
+    info->client->leaveHotel(info->output_path);
+    pthread_mutex_unlock(&mutex);
+
+    pthread_cond_broadcast(&mut);
+    return nullptr;
 }
 
 
 int main(int argc, char *argv[]) {
+    std::cout<<std::endl;
+    std::cout<<std::endl;
     // Start time.
     clock_t start_time = clock();
 
     int clients_amount;
 
-    int hotel_capacity;
-
-    int saturate_pots;
-
     int result = setData(argc, argv, clients_amount);
+
     if (result) {
         return result;
     }
@@ -128,7 +127,6 @@ int main(int argc, char *argv[]) {
     FILE *file_out = fopen(argv[argc - 1], "w");
 
     auto *hotel = new Hotel();
-
     auto *threads = new pthread_t[clients_amount];
     auto *thread_info = new Info[clients_amount];
 

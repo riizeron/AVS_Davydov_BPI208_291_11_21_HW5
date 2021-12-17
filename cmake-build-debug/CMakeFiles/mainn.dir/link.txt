@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/mainn.dir/main.cpp.o CMakeFiles/mainn.dir/Hotel.cpp.o CMakeFiles/mainn.dir/Client.cpp.o CMakeFiles/mainn.dir/Random.cpp.o  -o mainn 
