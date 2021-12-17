@@ -97,9 +97,6 @@
 		<Unit filename="/mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel/Info.h">
 			<Option target="main"/>
 		</Unit>
-		<Unit filename="/mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel/Random.h">
-			<Option target="main"/>
-		</Unit>
 		<Unit filename="/mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel/main.cpp">
 			<Option target="main"/>
 		</Unit>

@@ -3,7 +3,6 @@
 
 CMakeFiles/main.dir/Client.cpp.o: ../Client.cpp
 CMakeFiles/main.dir/Client.cpp.o: ../Client.h
-CMakeFiles/main.dir/Client.cpp.o: ../Random.h
 
 CMakeFiles/main.dir/Hotel.cpp.o: ../Hotel.cpp
 CMakeFiles/main.dir/Hotel.cpp.o: ../Hotel.h
@@ -11,6 +10,5 @@ CMakeFiles/main.dir/Hotel.cpp.o: ../Hotel.h
 CMakeFiles/main.dir/main.cpp.o: ../Client.h
 CMakeFiles/main.dir/main.cpp.o: ../Hotel.h
 CMakeFiles/main.dir/main.cpp.o: ../Info.h
-CMakeFiles/main.dir/main.cpp.o: ../Random.h
 CMakeFiles/main.dir/main.cpp.o: ../main.cpp
 

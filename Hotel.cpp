@@ -2,7 +2,7 @@
 // Created by Вячеслав on 16.12.2021.
 //
 
-#include <cstdio>
+#include <iostream>
 #include "Hotel.h"
 
 // Constructor.
@@ -21,10 +21,11 @@ void Hotel::addClient() {
     ++occupied_count_;
 }
 
-// Вывод информации о горшке.
-void Hotel::print(FILE *file_out) const {
-    printf("Hotel: full for %d/%d rooms.\n", occupied_count_, capacity_);
-    fprintf(file_out, "Hotel: full for %d/%d rooms.\n", occupied_count_, capacity_);
+// Print state of hotel.
+void Hotel::print(std::ofstream &ofst) const {
+    std::cout << "Hotel: full for " << occupied_count_ << '/' << capacity_ << " rooms." << std::endl << std::endl;
+    ofst << "Client " << 5 << ": book room for the night in the hotel." << std::endl;
+    ofst << "Hotel: full for " << occupied_count_ << '/' << capacity_ << " rooms." << std::endl << std::endl;
 }
 
 void Hotel::removeClient() {

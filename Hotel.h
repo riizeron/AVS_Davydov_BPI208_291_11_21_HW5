@@ -6,6 +6,9 @@
 #define CSA_MULTITHREADING_HOTEL_HOTEL_H
 
 
+#include <iosfwd>
+#include <fstream>
+
 class Hotel {
 private:
     // Hotel capacity.
@@ -26,8 +29,8 @@ public:
     void removeClient();
 
 
-    // Output info about current state of holel.
-    void print(FILE *file_out) const;
+    // Output info about current state of hotel.
+    void print(std::ofstream&) const;
 };
 
 

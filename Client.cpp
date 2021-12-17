@@ -2,7 +2,7 @@
 // Created by Вячеслав on 16.12.2021.
 //
 
-#include <cstdio>
+#include <iostream>
 #include "Client.h"
 
 // Constructor.
@@ -10,26 +10,20 @@ Client::Client(int id) {
     id_ = id;
 }
 
-// Print message about client move.
-void Client::bookLog(FILE *output_path) const {
-    printf("Client %d: take room in the hotel.\n", id_);
-    fprintf(output_path, "Client %d: take room in the hotel.\n", id_);
+// Print message that client book room.
+void Client::bookRoom(std::ofstream &ofst) const {
+    std::cout << "Client " << id_ << ": book room for the night in the hotel." << std::endl;
+    ofst << "Client " << id_ << ": book room for the night in the hotel." << std::endl;
+
 }
 
-void Client::waitLog(FILE *output_path) const {
-    printf("Client %d: wait outside due to hotel is full.\n\n", id_);
-    fprintf(output_path, "Client %d: wait outside due to hotel is full.\n\n", id_);
-}
-
-int Client::getBookTime(FILE *output_path) const {
-    int time = book_time_.get();
-    printf("Client %d: book room for %d seconds.\n\n", id_, time);
-    fprintf(output_path, "Client %d: book room for %d seconds.\n\n", id_, time);
-    return time;
+void Client::waitLog(std::ofstream &ofst) const {
+    std::cout << "Client " << id_ << ": wait outside due to hotel is full." << std::endl << std::endl;
+    ofst << "Client " << id_ << ": wait outside due to hotel is full." << std::endl << std::endl;
 }
 
 // Client leave the hotel.
-void Client::leaveHotel(FILE *output_path) const {
-    printf("Client %d: leaves hotel.\n\n", id_);
-    fprintf(output_path, "Client %d: leaves the hotel.\n\n", id_);
+void Client::leaveHotel(std::ofstream &ofst) const {
+    std::cout << "Client " << id_ << ": leaves hotel." << std::endl;
+    ofst << "Client " << id_ << ": leaves hotel." << std::endl;
 }

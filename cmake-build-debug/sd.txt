@@ -1,244 +1,200 @@
-Client 1: take room in the hotel.
+Client 1: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 1/30 rooms.
-Client 1: book room for 4195 seconds.
 
-Client 2: take room in the hotel.
+Client 2: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 2/30 rooms.
-Client 2: book room for 2241 seconds.
 
-Client 4: take room in the hotel.
+Client 3: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 3/30 rooms.
-Client 4: book room for 3410 seconds.
 
-Client 5: take room in the hotel.
+Client 1: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 2/30 rooms.
+
+Client 4: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 3/30 rooms.
+
+Client 5: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 4/30 rooms.
-Client 5: book room for 4215 seconds.
 
-Client 6: take room in the hotel.
+Client 6: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 5/30 rooms.
-Client 6: book room for 2041 seconds.
 
-Client 3: take room in the hotel.
+Client 7: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 6/30 rooms.
-Client 3: book room for 4195 seconds.
 
-Client 7: take room in the hotel.
+Client 43: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 7/30 rooms.
-Client 7: book room for 2241 seconds.
 
-Client 8: take room in the hotel.
+Client 52: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 8/30 rooms.
-Client 8: book room for 3410 seconds.
 
-Client 9: take room in the hotel.
+Client 10: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 9/30 rooms.
-Client 9: book room for 4215 seconds.
 
-Client 10: take room in the hotel.
+Client 11: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 10/30 rooms.
-Client 10: book room for 2041 seconds.
 
-Client 11: take room in the hotel.
+Client 70: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 11/30 rooms.
-Client 11: book room for 4195 seconds.
 
-Client 12: take room in the hotel.
+Client 13: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 12/30 rooms.
-Client 12: book room for 2241 seconds.
 
-Client 13: take room in the hotel.
+Client 2: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 11/30 rooms.
+
+Client 14: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 12/30 rooms.
+
+Client 15: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 13/30 rooms.
-Client 13: book room for 4195 seconds.
 
-Client 14: take room in the hotel.
+Client 16: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 14/30 rooms.
-Client 14: book room for 2241 seconds.
 
-Client 2: leaves the hotel.
-
-Client 30: take room in the hotel.
-Hotel: full for 14/30 rooms.
-Client 30: book room for 4195 seconds.
-
-Client 4: leaves the hotel.
-
-Client 15: take room in the hotel.
-Hotel: full for 14/30 rooms.
-Client 15: book room for 4195 seconds.
-
-Client 1: leaves the hotel.
-
-Client 16: take room in the hotel.
-Hotel: full for 14/30 rooms.
-Client 16: book room for 2241 seconds.
-
-Client 40: take room in the hotel.
+Client 17: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 15/30 rooms.
-Client 40: book room for 4195 seconds.
 
-Client 17: take room in the hotel.
+Client 18: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 16/30 rooms.
-Client 17: book room for 2241 seconds.
 
-Client 18: take room in the hotel.
+Client 19: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 17/30 rooms.
-Client 18: book room for 4195 seconds.
 
-Client 61: take room in the hotel.
+Client 20: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 18/30 rooms.
-Client 61: book room for 2241 seconds.
 
-Client 19: take room in the hotel.
+Client 21: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 19/30 rooms.
-Client 19: book room for 3410 seconds.
 
-Client 20: take room in the hotel.
+Client 22: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 20/30 rooms.
-Client 20: book room for 4215 seconds.
 
-Client 21: take room in the hotel.
+Client 24: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 21/30 rooms.
-Client 21: book room for 2041 seconds.
 
-Client 22: take room in the hotel.
+Client 23: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 22/30 rooms.
-Client 22: book room for 4195 seconds.
 
-Client 23: take room in the hotel.
+Client 25: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 23/30 rooms.
-Client 23: book room for 2241 seconds.
 
-Client 24: take room in the hotel.
+Client 3: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 22/30 rooms.
+
+Client 26: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 23/30 rooms.
+
+Client 27: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 24/30 rooms.
-Client 24: book room for 3410 seconds.
 
-Client 25: take room in the hotel.
+Client 28: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 25/30 rooms.
-Client 25: book room for 4215 seconds.
 
-Client 26: take room in the hotel.
+Client 29: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 26/30 rooms.
-Client 26: book room for 2041 seconds.
 
-Client 7: leaves the hotel.
-
-Client 10: leaves the hotel.
-
-Client 27: take room in the hotel.
-Hotel: full for 25/30 rooms.
-Client 27: book room for 4195 seconds.
-
-Client 28: take room in the hotel.
-Hotel: full for 26/30 rooms.
-Client 28: book room for 2241 seconds.
-
-Client 29: take room in the hotel.
+Client 30: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 27/30 rooms.
-Client 29: book room for 3410 seconds.
 
-Client 8: leaves the hotel.
-
-Client 3: leaves the hotel.
-
-Client 9: leaves the hotel.
-
-Client 72: take room in the hotel.
-Hotel: full for 25/30 rooms.
-Client 72: book room for 4195 seconds.
-
-Client 12: leaves the hotel.
-
-Client 32: take room in the hotel.
-Hotel: full for 25/30 rooms.
-Client 32: book room for 4195 seconds.
-
-Client 14: leaves the hotel.
-
-Client 33: take room in the hotel.
-Hotel: full for 25/30 rooms.
-Client 33: book room for 2241 seconds.
-
-Client 34: take room in the hotel.
-Hotel: full for 26/30 rooms.
-Client 34: book room for 3410 seconds.
-
-Client 35: take room in the hotel.
-Hotel: full for 27/30 rooms.
-Client 35: book room for 4215 seconds.
-
-Client 86: take room in the hotel.
+Client 31: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 28/30 rooms.
-Client 86: book room for 4195 seconds.
 
-Client 13: leaves the hotel.
-
-Client 36: take room in the hotel.
-Hotel: full for 28/30 rooms.
-Client 36: book room for 2241 seconds.
-
-Client 37: take room in the hotel.
+Client 32: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 29/30 rooms.
-Client 37: book room for 3410 seconds.
 
-Client 72: leaves the hotel.
-
-Client 6: leaves the hotel.
-
-Client 32: leaves the hotel.
-
-Client 5: leaves the hotel.
-
-Client 88: take room in the hotel.
-Hotel: full for 26/30 rooms.
-Client 88: book room for 4195 seconds.
-
-Client 94: take room in the hotel.
-Hotel: full for 27/30 rooms.
-Client 94: book room for 4195 seconds.
-
-Client 95: take room in the hotel.
-Hotel: full for 28/30 rooms.
-Client 95: book room for 4195 seconds.
-
-Client 96: take room in the hotel.
-Hotel: full for 29/30 rooms.
-Client 96: book room for 4195 seconds.
-
-Client 97: take room in the hotel.
+Client 33: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 30/30 rooms.
-Client 97: book room for 4195 seconds.
 
-Client 98: wait outside due to hotel is full.
+Client 34: wait outside due to hotel is full.
+
+Client 4: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
+
+Client 35: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 30/30 rooms.
+
+Client 5: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
+
+Client 36: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 30/30 rooms.
+
+Client 37: wait outside due to hotel is full.
+
+Client 38: wait outside due to hotel is full.
+
+Client 39: wait outside due to hotel is full.
+
+Client 6: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
+
+Client 39: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 30/30 rooms.
+
+Client 41: wait outside due to hotel is full.
 
 Client 42: wait outside due to hotel is full.
+
+Client 8: wait outside due to hotel is full.
 
 Client 44: wait outside due to hotel is full.
 
 Client 45: wait outside due to hotel is full.
 
-Client 16: leaves the hotel.
-
-Client 17: leaves the hotel.
-
-Client 98: take room in the hotel.
+Client 7: leaves hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 29/30 rooms.
-Client 98: book room for 4195 seconds.
 
-Client 30: leaves the hotel.
-
-Client 46: take room in the hotel.
-Hotel: full for 29/30 rooms.
-Client 46: book room for 2241 seconds.
-
-Client 47: take room in the hotel.
+Client 41: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 30/30 rooms.
-Client 47: book room for 3410 seconds.
 
-Client 40: leaves the hotel.
+Client 47: wait outside due to hotel is full.
 
-Client 48: take room in the hotel.
-Hotel: full for 30/30 rooms.
-Client 48: book room for 4215 seconds.
+Client 48: wait outside due to hotel is full.
 
 Client 49: wait outside due to hotel is full.
 
@@ -246,11 +202,17 @@ Client 50: wait outside due to hotel is full.
 
 Client 51: wait outside due to hotel is full.
 
-Client 52: wait outside due to hotel is full.
+Client 9: wait outside due to hotel is full.
 
 Client 53: wait outside due to hotel is full.
 
-Client 54: wait outside due to hotel is full.
+Client 43: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
+
+Client 47: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 30/30 rooms.
 
 Client 55: wait outside due to hotel is full.
 
@@ -260,33 +222,33 @@ Client 57: wait outside due to hotel is full.
 
 Client 58: wait outside due to hotel is full.
 
-Client 48: leaves the hotel.
+Client 59: wait outside due to hotel is full.
 
-Client 60: take room in the hotel.
+Client 60: wait outside due to hotel is full.
+
+Client 52: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
+
+Client 55: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 30/30 rooms.
-Client 60: book room for 2041 seconds.
 
-Client 57: wait outside due to hotel is full.
+Client 62: wait outside due to hotel is full.
 
-Client 43: wait outside due to hotel is full.
+Client 63: wait outside due to hotel is full.
 
-Client 54: wait outside due to hotel is full.
+Client 64: wait outside due to hotel is full.
 
-Client 58: wait outside due to hotel is full.
+Client 65: wait outside due to hotel is full.
 
-Client 50: wait outside due to hotel is full.
+Client 10: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
 
-Client 19: leaves the hotel.
-
-Client 66: take room in the hotel.
+Client 64: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 30/30 rooms.
-Client 66: book room for 3203 seconds.
-
-Client 18: leaves the hotel.
-
-Client 50: take room in the hotel.
-Hotel: full for 30/30 rooms.
-Client 50: book room for 2028 seconds.
 
 Client 67: wait outside due to hotel is full.
 
@@ -294,403 +256,701 @@ Client 68: wait outside due to hotel is full.
 
 Client 69: wait outside due to hotel is full.
 
-Client 61: leaves the hotel.
+Client 12: wait outside due to hotel is full.
 
-Client 63: take room in the hotel.
-Hotel: full for 30/30 rooms.
-Client 63: book room for 4053 seconds.
-
-Client 70: wait outside due to hotel is full.
-
-Client 23: leaves the hotel.
-
-Client 71: take room in the hotel.
-Hotel: full for 30/30 rooms.
-Client 71: book room for 2839 seconds.
-
-Client 70: wait outside due to hotel is full.
-
-Client 24: leaves the hotel.
-
-Client 70: take room in the hotel.
-Hotel: full for 30/30 rooms.
-Client 70: book room for 2511 seconds.
-
-Client 22: leaves the hotel.
-
-Client 31: take room in the hotel.
-Hotel: full for 30/30 rooms.
-Client 31: book room for 4212 seconds.
-
-Client 63: leaves the hotel.
-
-Client 26: leaves the hotel.
-
-Client 28: leaves the hotel.
-
-Client 75: take room in the hotel.
-Hotel: full for 28/30 rooms.
-Client 75: book room for 4740 seconds.
-
-Client 76: take room in the hotel.
+Client 11: leaves hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 29/30 rooms.
-Client 76: book room for 3025 seconds.
 
-Client 77: take room in the hotel.
+Client 67: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 30/30 rooms.
-Client 77: book room for 2081 seconds.
 
-Client 78: wait outside due to hotel is full.
+Client 72: wait outside due to hotel is full.
+
+Client 73: wait outside due to hotel is full.
+
+Client 74: wait outside due to hotel is full.
+
+Client 75: wait outside due to hotel is full.
+
+Client 70: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
+
+Client 72: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 30/30 rooms.
+
+Client 77: wait outside due to hotel is full.
+
+Client 13: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
+
+Client 78: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 30/30 rooms.
 
 Client 79: wait outside due to hotel is full.
 
-Client 27: leaves the hotel.
+Client 80: wait outside due to hotel is full.
 
-Client 78: take room in the hotel.
+Client 81: wait outside due to hotel is full.
+
+Client 82: wait outside due to hotel is full.
+
+Client 83: wait outside due to hotel is full.
+
+Client 84: wait outside due to hotel is full.
+
+Client 85: wait outside due to hotel is full.
+
+Client 86: wait outside due to hotel is full.
+
+Client 87: wait outside due to hotel is full.
+
+Client 14: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
+
+Client 85: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 30/30 rooms.
-Client 78: book room for 2150 seconds.
+
+Client 89: wait outside due to hotel is full.
+
+Client 90: wait outside due to hotel is full.
+
+Client 91: wait outside due to hotel is full.
+
+Client 15: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
+
+Client 91: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 30/30 rooms.
+
+Client 93: wait outside due to hotel is full.
+
+Client 94: wait outside due to hotel is full.
+
+Client 95: wait outside due to hotel is full.
+
+Client 96: wait outside due to hotel is full.
+
+Client 16: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
+
+Client 94: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 30/30 rooms.
+
+Client 98: wait outside due to hotel is full.
+
+Client 99: wait outside due to hotel is full.
+
+Client 100: wait outside due to hotel is full.
+
+Client 17: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
+
+Client 98: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 30/30 rooms.
+
+Client 19: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
+
+Client 20: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 28/30 rooms.
+
+Client 21: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 27/30 rooms.
+
+Client 22: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 26/30 rooms.
+
+Client 24: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 25/30 rooms.
+
+Client 23: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 24/30 rooms.
+
+Client 25: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 23/30 rooms.
+
+Client 26: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 22/30 rooms.
+
+Client 27: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 21/30 rooms.
+
+Client 28: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 20/30 rooms.
+
+Client 29: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 19/30 rooms.
+
+Client 30: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 18/30 rooms.
+
+Client 31: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 17/30 rooms.
+
+Client 32: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 16/30 rooms.
+
+Client 33: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 15/30 rooms.
+
+Client 34: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 16/30 rooms.
+
+Client 35: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 15/30 rooms.
+
+Client 36: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 14/30 rooms.
+
+Client 40: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 15/30 rooms.
+
+Client 38: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 16/30 rooms.
+
+Client 37: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 17/30 rooms.
+
+Client 39: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 16/30 rooms.
+
+Client 8: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 17/30 rooms.
+
+Client 46: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 18/30 rooms.
+
+Client 44: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 19/30 rooms.
+
+Client 42: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 20/30 rooms.
+
+Client 45: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 21/30 rooms.
+
+Client 41: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 20/30 rooms.
+
+Client 49: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 21/30 rooms.
+
+Client 48: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 22/30 rooms.
+
+Client 51: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 23/30 rooms.
+
+Client 50: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 24/30 rooms.
+
+Client 54: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 25/30 rooms.
+
+Client 9: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 26/30 rooms.
+
+Client 53: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 27/30 rooms.
+
+Client 47: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 26/30 rooms.
+
+Client 56: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 27/30 rooms.
+
+Client 57: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 28/30 rooms.
+
+Client 59: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
+
+Client 61: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 30/30 rooms.
+
+Client 58: wait outside due to hotel is full.
+
+Client 60: wait outside due to hotel is full.
+
+Client 55: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
+
+Client 63: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 30/30 rooms.
+
+Client 62: wait outside due to hotel is full.
+
+Client 66: wait outside due to hotel is full.
+
+Client 65: wait outside due to hotel is full.
+
+Client 64: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
+
+Client 66: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 30/30 rooms.
+
+Client 12: wait outside due to hotel is full.
+
+Client 68: wait outside due to hotel is full.
+
+Client 71: wait outside due to hotel is full.
+
+Client 67: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
+
+Client 12: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 30/30 rooms.
+
+Client 75: wait outside due to hotel is full.
+
+Client 74: wait outside due to hotel is full.
+
+Client 73: wait outside due to hotel is full.
+
+Client 72: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
+
+Client 75: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 30/30 rooms.
+
+Client 78: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
+
+Client 87: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 30/30 rooms.
 
 Client 80: wait outside due to hotel is full.
+
+Client 88: wait outside due to hotel is full.
+
+Client 86: wait outside due to hotel is full.
 
 Client 82: wait outside due to hotel is full.
 
 Client 84: wait outside due to hotel is full.
 
-Client 33: leaves the hotel.
+Client 81: wait outside due to hotel is full.
 
-Client 85: take room in the hotel.
-Hotel: full for 30/30 rooms.
-Client 85: book room for 3084 seconds.
-
-Client 80: wait outside due to hotel is full.
-
-Client 82: wait outside due to hotel is full.
+Client 79: wait outside due to hotel is full.
 
 Client 83: wait outside due to hotel is full.
 
-Client 38: wait outside due to hotel is full.
+Client 85: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
+
+Client 92: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 30/30 rooms.
+
+Client 90: wait outside due to hotel is full.
 
 Client 89: wait outside due to hotel is full.
 
-Client 36: leaves the hotel.
-
-Client 90: take room in the hotel.
-Hotel: full for 30/30 rooms.
-Client 90: book room for 3276 seconds.
-
-Client 80: wait outside due to hotel is full.
-
-Client 82: wait outside due to hotel is full.
-
-Client 91: wait outside due to hotel is full.
-
-Client 83: wait outside due to hotel is full.
-
-Client 86: leaves the hotel.
-
-Client 92: take room in the hotel.
-Hotel: full for 30/30 rooms.
-Client 92: book room for 2412 seconds.
-
-Client 90: leaves the hotel.
-
-Client 99: take room in the hotel.
-Hotel: full for 30/30 rooms.
-Client 99: book room for 2632 seconds.
-
-Client 100: wait outside due to hotel is full.
-
-Client 88: leaves the hotel.
-
-Client 87: take room in the hotel.
-Hotel: full for 30/30 rooms.
-Client 87: book room for 4301 seconds.
-
-Client 100: wait outside due to hotel is full.
-
-Client 95: leaves the hotel.
-
-Client 96: leaves the hotel.
-
-Client 15: leaves the hotel.
-
-Client 45: take room in the hotel.
-Hotel: full for 28/30 rooms.
-Client 45: book room for 4338 seconds.
-
-Client 44: take room in the hotel.
+Client 91: leaves hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 29/30 rooms.
-Client 44: book room for 3366 seconds.
 
-Client 42: take room in the hotel.
+Client 90: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 30/30 rooms.
-Client 42: book room for 4178 seconds.
 
-Client 97: leaves the hotel.
+Client 95: wait outside due to hotel is full.
 
-Client 41: take room in the hotel.
+Client 96: wait outside due to hotel is full.
+
+Client 97: wait outside due to hotel is full.
+
+Client 94: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
+
+Client 95: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 30/30 rooms.
-Client 41: book room for 3340 seconds.
 
-Client 39: wait outside due to hotel is full.
+Client 18: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
 
-Client 46: leaves the hotel.
+Client 99: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 30/30 rooms.
 
-Client 98: leaves the hotel.
+Client 98: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 29/30 rooms.
 
-Client 41: leaves the hotel.
+Client 34: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 28/30 rooms.
 
-Client 44: leaves the hotel.
+Client 40: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 27/30 rooms.
 
-Client 47: leaves the hotel.
-
-Client 59: take room in the hotel.
+Client 38: leaves hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 26/30 rooms.
-Client 59: book room for 4450 seconds.
 
-Client 39: take room in the hotel.
-Hotel: full for 27/30 rooms.
-Client 39: book room for 3173 seconds.
-
-Client 52: take room in the hotel.
-Hotel: full for 28/30 rooms.
-Client 52: book room for 4420 seconds.
-
-Client 51: take room in the hotel.
-Hotel: full for 29/30 rooms.
-Client 51: book room for 2175 seconds.
-
-Client 62: take room in the hotel.
-Hotel: full for 30/30 rooms.
-Client 62: book room for 3129 seconds.
-
-Client 64: wait outside due to hotel is full.
-
-Client 21: leaves the hotel.
-
-Client 65: take room in the hotel.
-Hotel: full for 30/30 rooms.
-Client 65: book room for 4654 seconds.
-
-Client 64: wait outside due to hotel is full.
-
-Client 56: wait outside due to hotel is full.
-
-Client 49: wait outside due to hotel is full.
-
-Client 60: leaves the hotel.
-
-Client 43: take room in the hotel.
-Hotel: full for 30/30 rooms.
-Client 43: book room for 4542 seconds.
-
-Client 62: leaves the hotel.
-
-Client 54: take room in the hotel.
-Hotel: full for 30/30 rooms.
-Client 54: book room for 4265 seconds.
-
-Client 57: wait outside due to hotel is full.
-
-Client 20: leaves the hotel.
-
-Client 67: take room in the hotel.
-Hotel: full for 30/30 rooms.
-Client 67: book room for 4895 seconds.
-
-Client 68: wait outside due to hotel is full.
-
-Client 69: wait outside due to hotel is full.
-
-Client 50: leaves the hotel.
-
-Client 66: leaves the hotel.
-
-Client 69: take room in the hotel.
-Hotel: full for 29/30 rooms.
-Client 69: book room for 2951 seconds.
-
-Client 54: leaves the hotel.
-
-Client 73: take room in the hotel.
-Hotel: full for 29/30 rooms.
-Client 73: book room for 3479 seconds.
-
-Client 71: leaves the hotel.
-
-Client 74: take room in the hotel.
-Hotel: full for 29/30 rooms.
-Client 74: book room for 3877 seconds.
-
-Client 77: leaves the hotel.
-
-Client 76: leaves the hotel.
-
-Client 29: leaves the hotel.
-
-Client 79: take room in the hotel.
-Hotel: full for 27/30 rooms.
-Client 79: book room for 3096 seconds.
-
-Client 31: leaves the hotel.
-
-Client 84: take room in the hotel.
-Hotel: full for 27/30 rooms.
-Client 84: book room for 2449 seconds.
-
-Client 73: leaves the hotel.
-
-Client 11: leaves the hotel.
-
-Client 34: leaves the hotel.
-
-Client 75: leaves the hotel.
-
-Client 78: leaves the hotel.
-
-Client 35: leaves the hotel.
-
-Client 85: leaves the hotel.
-
-Client 74: leaves the hotel.
-
-Client 38: take room in the hotel.
-Hotel: full for 20/30 rooms.
-Client 38: book room for 2929 seconds.
-
-Client 37: leaves the hotel.
-
-Client 89: take room in the hotel.
-Hotel: full for 20/30 rooms.
-Client 89: book room for 3935 seconds.
-
-Client 93: take room in the hotel.
-Hotel: full for 21/30 rooms.
-Client 93: book room for 2960 seconds.
-
-Client 91: take room in the hotel.
-Hotel: full for 22/30 rooms.
-Client 91: book room for 4083 seconds.
-
-Client 82: take room in the hotel.
-Hotel: full for 23/30 rooms.
-Client 82: book room for 3675 seconds.
-
-Client 80: take room in the hotel.
-Hotel: full for 24/30 rooms.
-Client 80: book room for 2927 seconds.
-
-Client 83: take room in the hotel.
+Client 37: leaves hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 25/30 rooms.
-Client 83: book room for 4164 seconds.
 
-Client 81: take room in the hotel.
-Hotel: full for 26/30 rooms.
-Client 81: book room for 3825 seconds.
+Client 8: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 24/30 rooms.
 
-Client 94: leaves the hotel.
+Client 46: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 23/30 rooms.
 
-Client 38: leaves the hotel.
+Client 44: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 22/30 rooms.
 
-Client 93: leaves the hotel.
-
-Client 99: leaves the hotel.
-
-Client 92: leaves the hotel.
-
-Client 87: leaves the hotel.
-
-Client 53: take room in the hotel.
+Client 42: leaves hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 21/30 rooms.
-Client 53: book room for 2952 seconds.
 
-Client 80: leaves the hotel.
+Client 45: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 20/30 rooms.
 
-Client 82: leaves the hotel.
-
-Client 45: leaves the hotel.
-
-Client 39: leaves the hotel.
-
-Client 59: leaves the hotel.
-
-Client 52: leaves the hotel.
-
-Client 55: take room in the hotel.
-Hotel: full for 16/30 rooms.
-Client 55: book room for 4382 seconds.
-
-Client 81: leaves the hotel.
-
-Client 64: take room in the hotel.
-Hotel: full for 16/30 rooms.
-Client 64: book room for 3178 seconds.
-
-Client 49: take room in the hotel.
-Hotel: full for 17/30 rooms.
-Client 49: book room for 3584 seconds.
-
-Client 56: take room in the hotel.
-Hotel: full for 18/30 rooms.
-Client 56: book room for 3682 seconds.
-
-Client 51: leaves the hotel.
-
-Client 58: take room in the hotel.
-Hotel: full for 18/30 rooms.
-Client 58: book room for 2515 seconds.
-
-Client 57: take room in the hotel.
+Client 49: leaves hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 19/30 rooms.
-Client 57: book room for 3891 seconds.
 
-Client 65: leaves the hotel.
-
-Client 25: leaves the hotel.
-
-Client 68: take room in the hotel.
+Client 48: leaves hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 18/30 rooms.
-Client 68: book room for 4801 seconds.
 
-Client 43: leaves the hotel.
+Client 51: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 17/30 rooms.
 
-Client 70: leaves the hotel.
+Client 50: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 16/30 rooms.
 
-Client 67: leaves the hotel.
+Client 54: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 15/30 rooms.
 
-Client 69: leaves the hotel.
+Client 9: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 14/30 rooms.
 
-Client 84: leaves the hotel.
-
-Client 79: leaves the hotel.
-
-Client 100: take room in the hotel.
+Client 53: leaves hotel.
+Client 5: book room for the night in the hotel.
 Hotel: full for 13/30 rooms.
-Client 100: book room for 2797 seconds.
 
-Client 89: leaves the hotel.
+Client 56: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 12/30 rooms.
 
-Client 91: leaves the hotel.
+Client 57: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 11/30 rooms.
 
-Client 42: leaves the hotel.
+Client 59: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 10/30 rooms.
 
-Client 83: leaves the hotel.
+Client 61: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 9/30 rooms.
 
-Client 53: leaves the hotel.
+Client 60: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 10/30 rooms.
 
-Client 55: leaves the hotel.
+Client 58: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 11/30 rooms.
 
-Client 58: leaves the hotel.
+Client 63: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 10/30 rooms.
 
-Client 64: leaves the hotel.
+Client 62: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 11/30 rooms.
 
-Client 49: leaves the hotel.
+Client 65: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 12/30 rooms.
 
-Client 56: leaves the hotel.
+Client 69: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 13/30 rooms.
 
-Client 57: leaves the hotel.
+Client 66: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 12/30 rooms.
 
-Client 100: leaves the hotel.
+Client 76: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 13/30 rooms.
 
-Client 68: leaves the hotel.
+Client 71: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 14/30 rooms.
+
+Client 68: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 15/30 rooms.
+
+Client 12: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 14/30 rooms.
+
+Client 74: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 15/30 rooms.
+
+Client 73: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 16/30 rooms.
+
+Client 77: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 17/30 rooms.
+
+Client 75: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 16/30 rooms.
+
+Client 87: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 15/30 rooms.
+
+Client 88: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 16/30 rooms.
+
+Client 86: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 17/30 rooms.
+
+Client 84: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 18/30 rooms.
+
+Client 81: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 19/30 rooms.
+
+Client 82: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 20/30 rooms.
+
+Client 79: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 21/30 rooms.
+
+Client 83: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 22/30 rooms.
+
+Client 80: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 23/30 rooms.
+
+Client 92: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 22/30 rooms.
+
+Client 93: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 23/30 rooms.
+
+Client 89: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 24/30 rooms.
+
+Client 90: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 23/30 rooms.
+
+Client 100: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 24/30 rooms.
+
+Client 96: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 25/30 rooms.
+
+Client 97: book room for the night in the hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 26/30 rooms.
+
+Client 95: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 25/30 rooms.
+
+Client 99: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 24/30 rooms.
+
+Client 60: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 23/30 rooms.
+
+Client 58: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 22/30 rooms.
+
+Client 62: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 21/30 rooms.
+
+Client 65: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 20/30 rooms.
+
+Client 69: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 19/30 rooms.
+
+Client 76: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 18/30 rooms.
+
+Client 71: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 17/30 rooms.
+
+Client 68: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 16/30 rooms.
+
+Client 74: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 15/30 rooms.
+
+Client 73: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 14/30 rooms.
+
+Client 77: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 13/30 rooms.
+
+Client 88: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 12/30 rooms.
+
+Client 86: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 11/30 rooms.
+
+Client 84: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 10/30 rooms.
+
+Client 81: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 9/30 rooms.
+
+Client 82: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 8/30 rooms.
+
+Client 79: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 7/30 rooms.
+
+Client 83: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 6/30 rooms.
+
+Client 80: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 5/30 rooms.
+
+Client 93: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 4/30 rooms.
+
+Client 89: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 3/30 rooms.
+
+Client 100: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 2/30 rooms.
+
+Client 96: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 1/30 rooms.
+
+Client 97: leaves hotel.
+Client 5: book room for the night in the hotel.
+Hotel: full for 0/30 rooms.
 

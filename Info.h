@@ -4,20 +4,20 @@
 
 #include "Client.h"
 #include "Hotel.h"
+#include <iosfwd>
+#include <fstream>
 
 #ifndef CSA_MULTITHREADING_HOTEL_INFO_H
 #define CSA_MULTITHREADING_HOTEL_INFO_H
 
 
-// Данные, передаваемые в поток.
+// Thread data.
 struct Info {
+public:
     // Client responsible for this stream.
     Client *client;
     // Hotel.
     Hotel *hotel;
-
-    // Output file.
-    FILE *output_path;
 };
 
 #endif //CSA_MULTITHREADING_HOTEL_INFO_H
