@@ -2,3 +2,4 @@ C:\WINDOWS\system32\wsl.exe --distribution Ubuntu --exec /bin/sh -c "export CLIO
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /mnt/d/hse_work/hse_csa/CSA_Multithreading_Hotel/cmake-build-debug
+Cannot resolve compiler path '/usr/bin/c++'
